@@ -14,14 +14,14 @@ The objective of the tasks consisted of point below:
 ## Description
 
 The program have 8 main features such as :
-1 Register new user
-2 Register new book
-3 Borrowing the book
-4 Display of book 
-5 Display of user
-6 Display of borrowing list
-7 Searching feature for the book
-8 Returning the book
+- Register new user
+- Register new book
+- Borrowing the book
+- Display of book
+- Display of user
+- Display of borrowing list
+- Searching feature for the book
+- Returning the book
 
 ## Deployment 
 Make sure pandas & mysql-connector-python library had already install ed and address main.py, library.py, & book.py in one folder. 
